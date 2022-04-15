@@ -1,3 +1,3 @@
 const greet = function(){
-    console.log("bye world!");
+    console.log("hello world!");
 }
